@@ -1,0 +1,44 @@
+[
+    {    "reseau" :"Discord",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class" : "discord"
+
+    },
+    {      "reseau" :"Instagram",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class" : "instagram"
+
+    },
+    {      "reseau" :"Bluesky",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class": "bluesky"
+
+    },
+    {      "reseau" :"Youtube",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class" : "youtube"
+
+    },
+    {      "reseau" :"X",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class" : "x"
+
+    },
+    {      "reseau" :"Patreon",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class" : "patreon"
+
+    },
+    {      "reseau" :"Tumblr",
+        "name": "Equipouet",
+        "img" : "/Images/logodidi.png",
+        "class" : "tumblr"
+
+    }
+]
